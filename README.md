@@ -10,6 +10,25 @@
 
 ---
 
+### Featured Project
+
+<a href="https://github.com/alexdni/squiggly">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=alexdni&repo=squiggly&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=alexdni&repo=squiggly&theme=default&hide_border=true" />
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdni&repo=squiggly&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  </picture>
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/alexdni/squiggly?style=flat-square&color=58a6ff&label=Stars" />
+  <img src="https://img.shields.io/github/forks/alexdni/squiggly?style=flat-square&color=58a6ff&label=Forks" />
+  <img src="https://img.shields.io/github/languages/top/alexdni/squiggly?style=flat-square&color=58a6ff" />
+  <img src="https://img.shields.io/github/last-commit/alexdni/squiggly?style=flat-square&color=58a6ff&label=Last+Commit" />
+</p>
+
+---
+
 ### About Me
 
 ```yaml
