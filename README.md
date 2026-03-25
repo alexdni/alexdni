@@ -40,8 +40,8 @@ focus:
   - Cloud-based neurofeedback & biofeedback platforms
   - Machine learning for biomedical signal processing
   - Full-stack product development
-education: MBA, CPA
-currently_building: "The most accessible neurofeedback platform in the world"
+education: MBA, CPA, B.Sc Computer Science
+currently_building: "The most accessible biofeedback / neurofeedback platform in the world"
 fun_fact: "Our platform has powered 400,000+ brain training sessions across 40+ countries"
 ```
 
@@ -62,9 +62,9 @@ fun_fact: "Our platform has powered 400,000+ brain training sessions across 40+ 
 | **Frontend** | React, React Native, TypeScript, Material-UI, Emotion |
 | **Backend** | Node.js, Python, Express, GraphQL, REST |
 | **AI / ML** | TensorFlow, scikit-learn, signal processing (FFT, PSD) |
-| **Cloud** | AWS (Cognito, Lambda, S3, CloudFront, API Gateway), Vercel |
+| **Cloud** | AWS (Cognito, Lambda, S3, CloudFront, API Gateway), Vercel, Supabase, Railway |
 | **Data** | PostgreSQL, Redis, DynamoDB, RxJS pipelines |
-| **Biomedical** | EEG, ECG, HRV, skin conductance, respiration processing |
+| **Biomedical** | EEG, ECG, HRV, skin conductance, respiration processing, EMG |
 | **DevOps** | Docker, GitHub Actions, Turborepo, Playwright |
 
 </details>
