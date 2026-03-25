@@ -124,13 +124,13 @@ fun_fact: "Our platform has powered 400,000+ brain training sessions across 40+ 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Open Source</h3>
+      <h3 align="center">Squiggly - Open Source EEG Visualizer and Analyzer</h3>
       <p align="center">
-        Contributing to the neurotechnology ecosystem with tools for biomedical data processing, EEG analytics, and clinical workflow automation.
+        Contributing to the neurotechnology ecosystem with tools for biomedical data processing, EEG analytics, and research workflow automation.
       </p>
       <p align="center">
-        <a href="https://github.com/alexdni?tab=repositories">
-          <img src="https://img.shields.io/badge/View_Repos-181717?style=flat-square&logo=github&logoColor=white" />
+        <a href="https://squiggly.alexni.ai">
+          <img src="https://img.shields.io/badge/squiggly.alexni.ai-58a6ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg==&logoColor=white" />
         </a>
       </p>
     </td>
