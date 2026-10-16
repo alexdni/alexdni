@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/github/last-commit/alexdni/squiggly?style=flat-square&color=58a6ff&label=Last+Commit" />
 </p>
 
+<p align="center">
+  <a href="https://squiggly.alexni.ai"><img src="assets/squiggly-topomaps.png" width="49%" alt="Squiggly band power topographic maps, eyes open vs eyes closed" /></a>
+  <a href="https://squiggly.alexni.ai"><img src="assets/squiggly-connectivity.png" width="49%" alt="Squiggly wPLI brain connectivity maps" /></a>
+</p>
+
 ---
 
 ### About Me
@@ -131,6 +136,22 @@ fun_fact: "Our platform has powered 400,000+ brain training sessions across 40+ 
       <p align="center">
         <a href="https://squiggly.alexni.ai">
           <img src="https://img.shields.io/badge/squiggly.alexni.ai-58a6ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg==&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">EEG for Beginners</h3>
+      <p align="center">
+        A free, hands-on two-week course that takes newcomers from zero to reading an EEG trace and running a basic analysis in Python, built on real anonymised recordings with interactive labs.
+      </p>
+      <p align="center">
+        <a href="https://eeg-for-beginners.vercel.app">
+          <img src="https://img.shields.io/badge/eeg--for--beginners.vercel.app-58a6ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg==&logoColor=white" />
+        </a>
+        <a href="https://github.com/alexdni/EEG_For_Beginners">
+          <img src="https://img.shields.io/badge/source-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
